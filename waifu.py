@@ -15,7 +15,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 # Bot token in the quotes
-bot_token = "Mzc5ODI1NDg2ODczODg2NzIw.GQkJIT.O5K4X3ULY4ANHJyNplXt3WDdncGE8LIQv7uTPw"
+bot_token = "xxx"
 
 """Changes Made:
 Prefix modifier (fix help and ERR prefixes)
